@@ -6,7 +6,7 @@ const Loader = () => {
         <Spinner
             animation="border"
             role="status"
-            style={{ display: "block", margin: '1rem auto' }}
+            style={{ display: "block", margin: "1rem auto" }}
         >
             <span className="sr-only">Loading...</span>
         </Spinner>
