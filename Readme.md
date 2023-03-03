@@ -12,22 +12,30 @@
 
 
 
-### **What did I learn from this Project?**
+## **Project Features**
 
- - Managing cart with local storage
- - Redux for State Management
- - User Authentication
- - PayPal payment implementation
- - Managing Admin Dashboard
- - Pagination
+ - E-commerce platform to sell electronics gadgets.
+- Paypal-Payment integration for online payment. Used React-Router for client side routing, Redux for state- management, and Jason Web Token for Auth,
+- Admin dashboard to manage users, products and orders.
+- User dashboard to update profile, change password and check orders.
+- User can search the products, review the products, and update the shipping address.
 
  
 
 ---
 
-### **Time Duration to Build the Project:-**
+## **Tech Used**
 
-- It took me around 10 days to Build the complete App. 
+- Bootstrap as CSS framework
+- ReactJs as Frontend Javascript Library
+- React Router for Routing Pages
+- Redux for State Managment
+- ExpressJs as Backend Serverside Framewrok
+- JSON Web Token to create and maintain Token for Authentication
+- Mongoose for Mongo DB as Database 
+
+---
+LIVE LINK:- [Eshop](https://eshop.cyclic.app/)
 
 ---
 
