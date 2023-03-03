@@ -2,9 +2,9 @@
 
 ## **Overview of the Project** 
 
-![Alt Live-Screenshot](ss1.png)
-![Alt Live-Screenshot](ss2.png)
-![Alt Live-Screenshot](ss3.png)
+![Alt Live-Screenshot](/ss1.png)
+![Alt Live-Screenshot](/ss2.png)
+![Alt Live-Screenshot](/ss3.png)
 
 
 
@@ -35,7 +35,11 @@
 - Mongoose for Mongo DB as Database 
 
 ---
-LIVE LINK:- [Eshop](https://eshop.cyclic.app/)
+
+
+### **App Link**
+
+- App is live on:- https://eshop.cyclic.app/
 
 ---
 
